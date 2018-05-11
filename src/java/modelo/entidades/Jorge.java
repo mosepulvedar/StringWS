@@ -23,7 +23,9 @@ public class Jorge {
     }
 
     public String getNombre() {
-        return "moises sepulveda";
+
+        return "Alfredo Durán";
+
     }
 
     public void setNombre(String nombre) {

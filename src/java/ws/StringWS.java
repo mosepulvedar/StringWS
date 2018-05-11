@@ -19,4 +19,5 @@ public class StringWS {
     public String minusculas(String palabra) {
         return palabra.toLowerCase();
     }
+    
 }
